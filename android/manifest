@@ -2,7 +2,11 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
+<<<<<<< HEAD
 version: 3.0.1
+=======
+version: 3.0.0
+>>>>>>> appcelerator-archive/master
 apiversion: 3
 architectures: armeabi-v7a x86
 description: Provides a paint surface user interface view.
@@ -16,4 +20,8 @@ name: paint
 moduleid: ti.paint
 guid: de06ebe1-4ab9-44da-85e4-7409b24190eb
 platform: android
+<<<<<<< HEAD
 minsdk: 6.1.0.GA
+=======
+minsdk: 6.0.0.GA
+>>>>>>> appcelerator-archive/master
